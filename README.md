@@ -9,4 +9,4 @@ if you get to the right you win. If you make mistakes it sends you back.
 
 Code comments are in spanish.
 
-UPDATE: I added instructions in english and cleaned some parts.
+UPDATE: I added instructions in english.
