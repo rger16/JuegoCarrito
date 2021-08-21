@@ -10,3 +10,12 @@ if you get to the right you win. If you make mistakes it sends you back.
 Code comments are in spanish.
 
 UPDATE: I added instructions in english.
+
+
+IMAGENES / IMAGES
+
+<img src="images/Carrito1.png">
+
+<img src="images/Carrito2.png">
+
+<img src="images/Carrito3.png">
